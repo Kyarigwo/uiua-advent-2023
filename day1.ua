@@ -30,8 +30,9 @@ Digits ← ≡$"_" ⇡10
 
 ToGrid ← /+ ×⇡10 ⊠⊐⌕
 
-DayOneInput
-⬚@ ⊜∘≠ @\n.
-
-⊃(+∩ToGrid Digits, Names) (ToGrid Digits)
-∩(/+≡parse+@0 ≡(⊟ ⊃⊢ (⊢ ⇌) ▽) ≠0.)
+ExampleTwo
+⬚@ ⊜∘ ≠ @\n.
++∩ToGrid Digits, Names
+≠0.
+# ⊃(+∩ToGrid Digits, Names) (ToGrid Digits)
+# ∩(/+≡parse+@0 ≡(⊟ ⊃⊢ (⊢ ⇌) ▽) ≠0.)
