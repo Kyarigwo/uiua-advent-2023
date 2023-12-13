@@ -10,7 +10,7 @@ ExampleOne ←
 # ExampleOne
 DayTwoInput
 
-⊜□ ≠@\n.
+⊜□ ≠, @\n
 {"(\\d+) red" "(\\d+) green" "(\\d+) blue"}
 ⊠(/↥ ⊐≡parse ⊢⇌ ⍉ ⊐regex)
 .

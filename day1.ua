@@ -32,7 +32,6 @@ ToGrid ← /+ ×⇡10 ⊠⊐⌕
 
 ExampleTwo
 ⬚@ ⊜∘ ≠ @\n.
-+∩ToGrid Digits, Names
-≠0.
-# ⊃(+∩ToGrid Digits, Names) (ToGrid Digits)
-# ∩(/+≡parse+@0 ≡(⊟ ⊃⊢ (⊢ ⇌) ▽) ≠0.)
+
+≠0.+∩ToGrid Digits, Names
+∩(/+≡⋕+@0 ≡(⊟ ⊃⊢ (⊢ ⇌) ▽) ≠0.)
